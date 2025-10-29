@@ -1,25 +1,47 @@
-<h1 align="left">Hi there,I'm Shreya Shaw!👋</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
-<p>
-    I'm a passionate front-end developer from India, currently diving deep into the world of web development. With a focus on creating engaging and user-friendly interfaces, I enjoy bringing designs to life with HTML, CSS, and JavaScript. I'm continuously exploring new technologies to expand my skill set.
-</p>
+<h1 align="center">Hello fellow geeks 👋</h1>
 
-## Skills and Technologies:
-<p align="left"> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  alt="html5" width="40" 
-    height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" 
-    width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+  <td>
+     <img src = "https://github.com/DeepaPrasanna/DeepaPrasanna/blob/master/images/femalecodertocat.png" width = "200" height = "200" align = "left">
+  </td>
+  <td valign="middle" align="center">
+    <a href="mailto:shreyashaw05@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/shreyashaw05/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </td>
+</tr>
+</table>
+
+---
+
+I'm an aspiring **Full Stack Developer** based in **India** 🇮🇳.  
+I love programming and am currently looking for opportunities.  
+Feel free to contact me 😊
+
+- 📄 Discover my [Resume](#)
+- 💬 Contact me [@Shreya Shaw](mailto:shreyashaw1705@gmail.com)
+
+---
+
+<h3 align="center">Shreya Shaw's GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashaw05&" alt="shreyashaw05" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shreyashaw05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
-## 
+---
 
+## 🧰 Tools and Technologies
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,supabase,git,github,vercel,linux,vscode,bootstrap,tailwind,figma" alt="Tech Stack"/>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/shreyashaw05">@shreyashaw05</a></p>
