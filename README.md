@@ -1,34 +1,42 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="100%" />
 
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /> 
-  , I'm Shreya Shaw
-</h1>
+# Hi, I'm Shreya Shaw
 
-<h3 align="center">Student | Full Stack Developer</h3>
+### Student | Full Stack Developer
 
-<img align="right" alt="Coding" width="400"
-  src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"/>
+<img
+  align="right"
+  src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif"
+  width="380"
+  alt="Coding"
+/>
 
-<h3>About Me</h3>
+<h3>About Me</h3> 
 
-- 🌱 Currently learning **Data Structures & Algorithms** and **Web Development**
-- 💬 Ask me about **Web Development** and **Scalable Systems**
-- ⚡ I build **scalable web applications** with clean UIs and strong backends  
+- Currently learning **Data Structures & Algorithms** and **Web Development**
+- Comfortable discussing **Web Development** and **Scalable Systems**
+- I build **scalable web applications** with clean user interfaces and reliable backends
 
-**Always learning. Always improving.**
+Always learning. Always improving.
 
-<h3> Tech Stack</h3>
+<br clear="right" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express" height="40"/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,redis,prisma,postman,git,github,docker" height="40"/>
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,postgres,supabase,redis,prisma,docker,git,github,postman" />
 </p>
 
+---
 
-## 🔥 GitHub Streak
+## GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shreyashaw05&theme=radical" 
-       alt="GitHub Streak" height="170"/>
+<p>
+  <img
+    src="https://streak-stats.demolab.com?user=shreyashaw05&theme=radical"
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
