@@ -26,7 +26,7 @@ Always learning. Always improving.
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,postgres,supabase,redis,prisma,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,express,mongodb,postgres,supabase,redis,prisma,docker,git,postman" />
 </p>
 
 ---
